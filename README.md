@@ -19,64 +19,64 @@
 ```
 unity-lesson/
 ├── README.md                    # 프로젝트 개요 및 가이드
-├── 01-variables-and-types.md    # 변수 선언과 자료형
-├── 02-functions-and-methods.md  # 함수와 메서드 선언
-├── 03-control-statements.md     # 제어문
-├── 04-classes-and-objects.md    # 클래스와 객체
-├── 05-async-and-coroutines.md   # 비동기 처리와 코루틴
-├── 06-collections-and-linq.md   # 컬렉션과 LINQ
-├── 07-unity-basics.md           # 유니티 기본 개념
-└── 08-error-handling-and-namespaces.md # 에러 처리와 네임스페이스
+├── [01-variables-and-types.md](./01-variables-and-types.md)    # 변수 선언과 자료형
+├── [02-functions-and-methods.md](./02-functions-and-methods.md)  # 함수와 메서드 선언
+├── [03-control-statements.md](./03-control-statements.md)     # 제어문
+├── [04-classes-and-objects.md](./04-classes-and-objects.md)    # 클래스와 객체
+├── [05-async-and-coroutines.md](./05-async-and-coroutines.md)   # 비동기 처리와 코루틴
+├── [06-collections-and-linq.md](./06-collections-and-linq.md)   # 컬렉션과 LINQ
+├── [07-unity-basics.md](./07-unity-basics.md)           # 유니티 기본 개념
+└── [08-error-handling-and-namespaces.md](./08-error-handling-and-namespaces.md) # 에러 처리와 네임스페이스
 ```
 
 ## 📖 학습 내용
 
 ### ✅ 완료된 학습 내용
 
-#### 1. **변수 선언과 자료형** (`01-variables-and-types.md`)
+#### 1. **[변수 선언과 자료형](./01-variables-and-types.md)**
 - JavaScript vs C# 변수 선언 방식
 - 동적 타입 vs 정적 타입 시스템
 - 유니티에서 자주 사용하는 자료형
 - Vector3, Transform, GameObject 등
 
-#### 2. **함수와 메서드 선언** (`02-functions-and-methods.md`)
+#### 2. **[함수와 메서드 선언](./02-functions-and-methods.md)**
 - 함수 선언 방식 비교
 - 메서드 오버로딩 (C#만의 특징)
 - 람다식과 델리게이트
 - 유니티 생명주기 메서드 (Start, Update, Awake 등)
 
-#### 3. **제어문** (`03-control-statements.md`)
+#### 3. **[제어문](./03-control-statements.md)**
 - 조건문, 반복문, switch 문 비교
 - C#의 switch expression
 - 게임 로직에서의 활용
 - 패턴 매칭
 
-#### 4. **클래스와 객체** (`04-classes-and-objects.md`)
+#### 4. **[클래스와 객체](./04-classes-and-objects.md)**
 - 클래스 선언과 상속
 - 프로퍼티 시스템 (C#만의 특징)
 - 인터페이스와 추상 클래스
 - 유니티 컴포넌트 시스템
 
-#### 5. **비동기 처리와 코루틴** (`05-async-and-coroutines.md`)
+#### 5. **[비동기 처리와 코루틴](./05-async-and-coroutines.md)**
 - async/await 패턴 비교
 - 유니티 코루틴 (IEnumerator)
 - 게임에서의 활용 (체력 재생, 자동 저장 등)
 - 애니메이션과 효과 구현
 
-#### 6. **컬렉션과 LINQ** (`06-collections-and-linq.md`)
+#### 6. **[컬렉션과 LINQ](./06-collections-and-linq.md)**
 - 배열, 리스트, 딕셔너리 비교
 - LINQ (Language Integrated Query)
 - 게임 시스템에서의 활용
 - 성능 최적화 팁
 
-#### 7. **유니티 기본 개념** (`07-unity-basics.md`)
+#### 7. **[유니티 기본 개념](./07-unity-basics.md)**
 - MonoBehaviour 클래스
 - 유니티 생명주기 메서드
 - 입력 처리 (키보드, 마우스, 게임패드)
 - 컴포넌트 시스템
 - 게임 오브젝트 관리
 
-#### 8. **에러 처리와 네임스페이스** (`08-error-handling-and-namespaces.md`)
+#### 8. **[에러 처리와 네임스페이스](./08-error-handling-and-namespaces.md)**
 - try/catch/finally 패턴
 - 커스텀 예외 클래스
 - 네임스페이스와 모듈 시스템
